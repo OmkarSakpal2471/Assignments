@@ -1,0 +1,7 @@
+use table customer and complete follow task
+display all customer data (strongly typed)
+accept ID from the user and del particular customer
+create object of customer and store dataq in custoer table
+write search method with parameter ID
+write search method with parameter string(name,mobile)
+accept ID and name from the user and update the record
