@@ -1,0 +1,9 @@
+create mVC app
+1.Create POCO class customer ID  NAMe mobile bill amount
+2.create interface Icustomer with method IEnumerable<Customer> GetALlCustomer
+3.Create class service customer/implements Icustomer
+4.Create a controller customer
+5.Create constructor and inject interface reference
+6.Write action method Index which will return list of customer
+7.generate view
+8.in program.cs file addTransient method when you run the application it should display list of customer
