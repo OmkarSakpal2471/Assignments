@@ -1,0 +1,20 @@
+Create a POCO class Author, Book (One author can write many book)
+Follow the convention to achive one to many relationship
+
+Create the DbContext
+Write interface CRUD for Book
+Create Service class to implements CRUD
+Create BookController and complete CRUD
+
+steps:
+
+1.	Download dll
+2.	Put Connection String in appsettings
+3.	write POCO class and DbContext class
+4.	Open program file and Configure 2 service :
+					a. DbContext
+					b. Service_class
+5.	Add Migration
+6.	Update Database
+7.	Enter data in Author Table First
+8.	then add data in Book Table
